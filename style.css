@@ -1,0 +1,82 @@
+body{
+    background-size: cover;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.heading{
+    font-size: 31px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.div_speed{
+ float: left;
+ padding-top: 200px;
+}
+
+.div_speed_image{
+width: 200px;
+border-radius: 360px;
+}
+
+#speed{
+font-size: 22px;
+margin: 15px;
+}
+
+.div_volume{
+    float: right;
+    padding-top: 200px;
+}
+
+.div_volume_image{
+    width: 200px;
+    border-radius: 360px;
+}
+
+#volume{
+    font-size: 22px;
+    margin: 15px;
+}
+
+canvas{
+    background-color: #00FF66;
+    border-radius: 22px;
+    border-width: 2px;
+    box-shadow: #FF6600 ;
+    margin-top: 200px;
+}
+
+#labell{
+    border-radius: 20px;
+    background-color: #00FF66;
+    border-width: 2px ;
+    width: 400px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.play{
+    border-radius: 20px;
+    background-color: #00FF66;
+    border-width: 2px ;
+    width: 200px;
+    height: 80px;
+    font-size: 30px;
+    color: white;
+}
+
+.stop{
+    border-radius: 20px;
+    background-color: #00FF66;
+    border-width: 2px ;
+    width: 200px;
+    height: 80px;
+    font-size: 30px;
+    color: white;
+}
